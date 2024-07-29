@@ -6,4 +6,4 @@
 
 Гайдлайн по написанию курса
 
-[На русском языке](https://github.com/learnezcode/ezcode-course/course-ru.md)
+[На русском языке](/course-ru.md)
