@@ -4,6 +4,6 @@
 
 <p align="center">we'll teach you how to code :3</p>
 
-Гайдлайн по написанию курса
+Гайдлайн по написанию курса/Course writting guideline
 
 [На русском языке](/course-ru.md)
