@@ -7,3 +7,5 @@
 Гайдлайн по написанию курса/Course writting guideline
 
 [На русском языке](/course-ru.md)
+
+[On English](/course_en.md)
