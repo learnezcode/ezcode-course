@@ -18,8 +18,8 @@ name: Python. Start to code
 description: Do you want to learn Python? You are on the right track! Python is the best language in the world (real)
 course:
 1:
-chapter-name: Hello World
-info: In this chapter you need to describe how to install on windows/linux (use linux mint as example on linux), first 'hello world' code and what it means. Describe about comments. Next chapter is 'Types of variables' 2: chapter-name: Types of variables info: In this chapter you need to describe types of variables, like str, int, etc. Tell about f-string on python when you describe strings. Use code examples. Describe how to work with all types of variables on code. List, tuples, strings, float and int. Describe about f-strings and examples like '2+2' after you describe int and what you can do with int (+,-,*,/,//,%). Next chapter is how input and output works with examples 3: chapter-name: Greetable input and output info: In this chapter you need to describe how to use input string and print content and create basic Hello Name program. Next chapter is Functions
+  chapter-name: Hello World
+  info: In this chapter you need to describe how to install on windows/linux (use linux mint as example on linux), first 'hello world' code and what it means. Describe about comments. Next chapter is 'Types of variables' 2: chapter-name: Types of variables info: In this chapter you need to describe types of variables, like str, int, etc. Tell about f-string on python when you describe strings. Use code examples. Describe how to work with all types of variables on code. List, tuples, strings, float and int. Describe about f-strings and examples like '2+2' after you describe int and what you can do with int (+,-,*,/,//,%). Next chapter is how input and output works with examples 3: chapter-name: Greetable input and output info: In this chapter you need to describe how to use input string and print content and create basic Hello Name program. Next chapter is Functions
 ```
 
 ### Explanations
