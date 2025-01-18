@@ -28,7 +28,7 @@ course:
     info: In this chapter you need to describe how to use input string and print content and create basic Hello Name program.  Next chapter is Functions
 ```
 
-### Поясенния
+### Пояcнения
 
 - name - имя курса (высвечивается на главной)
 - description - описание (встречается на главной)
