@@ -5,6 +5,10 @@
 
 ezcode uses the yaml format to store course parameters
 
+We now have a service for writing courses in ezcode!
+
+Link: https://ezedit.streamlit.app
+
 For best accuracy, it is better to write the course in **English**
 
 CoGen AI reads the title and description of the chapter. For CoGen AI, the chapter description is the instruction it follows to write
